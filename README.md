@@ -2,7 +2,7 @@
 
 An interactive Streamlit app powered by **LangChain Agents** and **Groq's LLaMA 3** that enables real-time intelligent search using Wikipedia, ArXiv, DuckDuckGo, and a custom LangSmith RAG tool.
 
-🚀 Built with **LangChain**, **Streamlit**, **Groq**, **FAISS**, **HuggingFace Embeddings**, and **LangChain Tools**.
+> 🚀 Built with **LangChain**, **Streamlit**, **Groq**, **FAISS**, **HuggingFace Embeddings**, and **LangChain Tools**.
 
 ---
 
