@@ -28,6 +28,7 @@ An interactive Streamlit app powered by **LangChain Agents** and **Groq's LLaMA 
 
 ## 📁 Project Structure
 
+```bash
 Interactive-AI-Search-Agent/
 │
 ├── app.py 
@@ -36,7 +37,7 @@ Interactive-AI-Search-Agent/
 ├── .env 
 ├── README.md 
 └── assets
-
+```
 
 ---
 
@@ -102,7 +103,7 @@ streamlit run app.py
 
 > Chat Interface (Streamlit)
 
-![screenshot](assets/screenshot.png)
+![screenshot](assets/Screenshot.png)
 
 ## 🧪 Sample Queries
 
