@@ -46,7 +46,7 @@ Interactive-AI-Search-Agent/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/interactive-ai-search-agent.git
+git clone https://github.com/Electrolight123/interactive-ai-search-agent.git
 cd interactive-ai-search-agent
 ```
 
